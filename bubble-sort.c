@@ -3,7 +3,7 @@
 
 static void sort(void)
 {
-	// TODO: add bubble sort algortihm here
+	int i,j;
 }
 
 int main()
